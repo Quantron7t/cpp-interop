@@ -27,3 +27,5 @@ Creating and running the c# project in vscode
 * dotnet run
 
 >Dont forget to add correct dll path to DllImport
+
+![Result.](/media/result.png)
